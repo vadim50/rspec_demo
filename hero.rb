@@ -17,8 +17,8 @@ class Hero
   end
 end
 
-hero = Hero.new 'vadim'
-puts hero.name
-puts hero.power_down
-puts hero.power_up
-puts hero.hero_info
+# hero = Hero.new 'vadim'
+# puts hero.name
+# puts hero.power_down
+# puts hero.power_up
+# puts hero.hero_info
